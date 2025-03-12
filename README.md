@@ -5,7 +5,7 @@
 ### Clone the project
 
 ```bash
-git clone <repository_url>
+git clone git@github.com:robertointernet/tic-tac-toe.git
 cd tic-tac-toe
 ```
 
@@ -16,7 +16,13 @@ npm install
 npm run build
 ```
 
-### Run the project
+### Run the tests
+
+```bash
+npm test
+```
+
+### Run bot vs bot tic-tac-toe
 
 ```bash
 npm start
